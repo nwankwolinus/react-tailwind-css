@@ -1,7 +1,8 @@
-# Getting Started with Create React App
+![img-04-May-204](https://github.com/nwankwolinus/react-tailwind-css/assets/51293362/a662cfd9-7a33-4fbd-9084-4520cd2228c1)# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-![experiences-thumb](https://user-images.githubusercontent.com/65420004/207159107-27ee4079-25e2-4953-bf52-426cd2d400bd.png)
+![experiences-thumb](https://user-images.githubusercontent.com/img-04-May-204.jpeg…])
+
 
 
 
